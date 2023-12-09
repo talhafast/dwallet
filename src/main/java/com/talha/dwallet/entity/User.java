@@ -1,4 +1,4 @@
-package com.talha.dwallet.model;
+package com.talha.dwallet.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
